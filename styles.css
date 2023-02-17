@@ -421,12 +421,12 @@ footer {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 8% 0;
+  padding: 7% 0;
 }
 
 .footer__logo--img {
-  width: 70px;
-  height: 70px;
+  width: 170px;
+  height: 100px;
 }
 
 .footer__social--link,
@@ -437,8 +437,8 @@ footer {
 
 .footer__logo--popper {
   position: absolute;
-  right: 0;
-  top: 30px;
+  right: 40px;
+  top: 40px;
   font-weight: 700;
   opacity: 0;
   transition: all 300ms ease;
